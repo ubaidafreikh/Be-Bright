@@ -406,7 +406,7 @@ footer {
       line-height: 1.6;
       margin-bottom: 20px;
       color: white;
-      background-color: rgba(0, 0, 0, 0.3); 
+      background-color: rgba(0, 0, 0, 0.4); 
     }
 
     @media (max-width: 900px) {
@@ -472,6 +472,7 @@ footer {
   }
 
 }
+
 
 
 
