@@ -391,7 +391,7 @@ footer {
       color: white;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
     }
-*/
+
 
     .blackboard h1 {
       text-align: center;
@@ -399,7 +399,7 @@ footer {
       margin-bottom: 30px;
       color: white;
       font-family: "Montserrat";
-     /* background-color: rgba(0, 0, 0, 0.4); */
+      background-color: rgba(0, 0, 0, 0.4); 
     }
 
     .blackboard p {
@@ -409,6 +409,11 @@ footer {
       color: white;
       background-color: rgba(0, 0, 0, 0.3); 
     }
+*/
+
+.blackboard {
+      margin: 50px 300px 50px;
+      width: 40% 
 
     @media (max-width: 900px) {
   .navbar {
@@ -473,6 +478,7 @@ footer {
   }
 
 }
+
 
 
 
