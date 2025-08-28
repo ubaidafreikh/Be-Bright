@@ -379,9 +379,9 @@ footer {
   
     }
 
-    .blackboard {
+   /* .blackboard {
       position: relative;
-      background-image: url('studyTable.png'); /* Replace with correct path if needed */
+      background-image: url(''); /* Replace with correct path if needed 
       background-size: cover;
       background-color: #003a3c ;
       background-position: center;
@@ -391,6 +391,7 @@ footer {
       color: white;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
     }
+*/
 
     .blackboard h1 {
       text-align: center;
@@ -472,6 +473,7 @@ footer {
   }
 
 }
+
 
 
 
