@@ -412,8 +412,9 @@ footer {
 */
 
 .blackboard {
-      margin: 50px 300px 50px;
+      margin: 50px 300px 50px 300px;
       width: 40% 
+}
 
     @media (max-width: 900px) {
   .navbar {
@@ -478,6 +479,7 @@ footer {
   }
 
 }
+
 
 
 
