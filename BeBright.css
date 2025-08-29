@@ -412,8 +412,8 @@ footer {
 */
 
 .blackboard {
-      margin: 20px auto;
-      width: 40% 
+      margin: 20px 50px 20px 260px;
+      width: 60%
 }
 
     @media (max-width: 900px) {
@@ -479,15 +479,4 @@ footer {
   }
 
 }
-
-
-
-
-
-
-
-
-
-
-
 
