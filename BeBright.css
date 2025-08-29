@@ -412,8 +412,7 @@ footer {
 */
 
 .blackboard {
-      margin-right: 30%;
-      margin-left: 30%;
+      margin: 20px auto;
       width: 40% 
 }
 
@@ -480,6 +479,7 @@ footer {
   }
 
 }
+
 
 
 
